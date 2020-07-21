@@ -1,0 +1,21 @@
+{
+  "module": {
+    "number": 1,
+    "name": "Mathematics",
+    "questions": 1,
+    "revision": "21/07/2020"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "question": "10+10 = 20",
+      "tipo": "VerdaderoFalso",
+      "modo": "Clasico",
+      "answers": [
+        "True",
+        "False"
+      ],
+      "correct_answer": true
+    }
+  ]
+}
